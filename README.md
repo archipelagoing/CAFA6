@@ -1,9 +1,9 @@
 # CAFA 6 Protein Function Prediction!
 -------
 ⫘⫘⫘⫘ List of links ⫘⫘⫘⫘⫘
-https://github.com/archipelagoing/CAFA6
-https://www.kaggle.com/competitions/cafa-6-protein-function-prediction/overview
-https://docs.google.com/document/d/1YESm4etY8CQP0dcMr1YemjlGHE2pXzyKKEXZ6QC2_VE/edit?usp=sharing
+- https://github.com/archipelagoing/CAFA6
+- https://www.kaggle.com/competitions/cafa-6-protein-function-prediction/overview
+- https://docs.google.com/document/d/1YESm4etY8CQP0dcMr1YemjlGHE2pXzyKKEXZ6QC2_VE/edit?usp=sharing
 
 ## **Executive Summary**
 
