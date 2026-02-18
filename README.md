@@ -1,4 +1,4 @@
-# CAFA 6 Protein Function Prediction!
+# 🧬 CAFA 6 Protein Function Prediction!🧬
 -------
 ⫘⫘⫘⫘ List of links ⫘⫘⫘⫘⫘
 - https://github.com/archipelagoing/CAFA6
